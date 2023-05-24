@@ -41,6 +41,6 @@ Who uses Presto?
 ----------------
 
 Presto is an open source project that operates under the auspices of
-Facebook. It was invented at Facebook and the project continues to
-be developed by both Facebook internal developers and a number of
+Meta. It was invented at Meta and the project continues to
+be developed by both Meta internal developers and a number of
 third-party developers in the community.
